@@ -49,4 +49,3 @@ Ans6.   import numpy as np
         print(m)
         
         
-        print(x)
